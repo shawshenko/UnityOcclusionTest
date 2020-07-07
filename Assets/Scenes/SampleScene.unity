@@ -615,7 +615,7 @@ MonoBehaviour:
     m_Bits: 1
   StatusText: {fileID: 367337242}
   precise: 0
-  FOVResolution: 6
+  FOVResolution: 4
 --- !u!1 &845537153
 GameObject:
   m_ObjectHideFlags: 0
@@ -1301,3 +1301,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a961bd18715eb0842b3c7efa50243d72, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  angle: 0
+  speed: 0.62831855
+  radius: 0.02
